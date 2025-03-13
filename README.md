@@ -4,12 +4,12 @@
 Fokus utama: Node.js + Express.js + Database + API
 
 **📅 Minggu 1: Dasar Backend & API**
-✅ Hari 1-2: Pahami konsep backend, API, dan cara kerja client-server.
-✅ Hari 3: Install Node.js & buat server sederhana dengan Express.js.
-✅ Hari 4: Buat beberapa route API (GET, POST, PUT, DELETE).
-✅ Hari 5: Belajar middleware (contoh: express.json(), logger).
-✅ Hari 6: Buat API dengan data statis (belum pakai database).
-✅ Hari 7: Review & latihan bikin mini proyek API sederhana.
+✅ Hari 1-2: Pahami konsep backend, API, dan cara kerja client-server.  
+✅ Hari 3: Install Node.js & buat server sederhana dengan Express.js.  
+✅ Hari 4: Buat beberapa route API (GET, POST, PUT, DELETE).  
+✅ Hari 5: Belajar middleware (contoh: express.json(), logger).  
+✅ Hari 6: Buat API dengan data statis (belum pakai database).  
+✅ Hari 7: Review & latihan bikin mini proyek API sederhana.  
 
 **📅 Minggu 2: Database & CRUD**
 ✅ Hari 8-9: Pahami konsep database (SQL vs NoSQL).
